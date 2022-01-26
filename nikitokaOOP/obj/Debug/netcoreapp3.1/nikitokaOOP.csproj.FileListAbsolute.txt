@@ -1,0 +1,13 @@
+C:\Users\sergo\source\repos\nikitokaOOP\nikitokaOOP\obj\Debug\netcoreapp3.1\nikitokaOOP.csprojAssemblyReference.cache
+C:\Users\sergo\source\repos\nikitokaOOP\nikitokaOOP\obj\Debug\netcoreapp3.1\nikitokaOOP.AssemblyInfoInputs.cache
+C:\Users\sergo\source\repos\nikitokaOOP\nikitokaOOP\obj\Debug\netcoreapp3.1\nikitokaOOP.AssemblyInfo.cs
+C:\Users\sergo\source\repos\nikitokaOOP\nikitokaOOP\obj\Debug\netcoreapp3.1\nikitokaOOP.csproj.CoreCompileInputs.cache
+C:\Users\sergo\source\repos\nikitokaOOP\nikitokaOOP\bin\Debug\netcoreapp3.1\nikitokaOOP.exe
+C:\Users\sergo\source\repos\nikitokaOOP\nikitokaOOP\bin\Debug\netcoreapp3.1\nikitokaOOP.deps.json
+C:\Users\sergo\source\repos\nikitokaOOP\nikitokaOOP\bin\Debug\netcoreapp3.1\nikitokaOOP.runtimeconfig.json
+C:\Users\sergo\source\repos\nikitokaOOP\nikitokaOOP\bin\Debug\netcoreapp3.1\nikitokaOOP.runtimeconfig.dev.json
+C:\Users\sergo\source\repos\nikitokaOOP\nikitokaOOP\bin\Debug\netcoreapp3.1\nikitokaOOP.dll
+C:\Users\sergo\source\repos\nikitokaOOP\nikitokaOOP\bin\Debug\netcoreapp3.1\nikitokaOOP.pdb
+C:\Users\sergo\source\repos\nikitokaOOP\nikitokaOOP\obj\Debug\netcoreapp3.1\nikitokaOOP.dll
+C:\Users\sergo\source\repos\nikitokaOOP\nikitokaOOP\obj\Debug\netcoreapp3.1\nikitokaOOP.pdb
+C:\Users\sergo\source\repos\nikitokaOOP\nikitokaOOP\obj\Debug\netcoreapp3.1\nikitokaOOP.genruntimeconfig.cache
